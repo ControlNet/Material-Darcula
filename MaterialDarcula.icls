@@ -1,10 +1,10 @@
 <scheme name="Material Darcula 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-08T17:00:16</property>
+    <property name="created">2019-11-11T17:09:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-11-08T17:00:25</property>
+    <property name="modified">2019-11-11T17:09:35</property>
     <property name="originalScheme">Material Darcula 2</property>
   </metaInfo>
   <console-font>
@@ -2125,9 +2125,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353535" />
+        <option name="FOREGROUND" value="ffcc00" />
+        <option name="BACKGROUND" value="535353" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
