@@ -1,10 +1,10 @@
 <scheme name="Material Darcula 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-03-26T20:10:37</property>
+    <property name="created">2020-07-29T01:26:59</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-03-26T20:10:44</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-07-29T01:27:13</property>
     <property name="originalScheme">Material Darcula 2</property>
   </metaInfo>
   <console-font>
@@ -104,7 +104,7 @@
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -519,11 +519,7 @@
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -680,14 +676,89 @@
       </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GO_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="616161" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="GO_METHOD_RECEIVER">
+    <option name="GO_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="616161" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_CONSTANT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="GO_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
     <option name="HAML_CLASS">
@@ -1051,12 +1122,13 @@
       </value>
     </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+      </value>
     </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_COLON">
@@ -1095,6 +1167,11 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1120,14 +1197,29 @@
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value />
+    </option>
+    <option name="KOTLIN_WRAPPED_INTO_REF">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -2312,7 +2404,7 @@
     <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -2707,6 +2799,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
