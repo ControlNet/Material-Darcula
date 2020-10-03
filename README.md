@@ -7,3 +7,19 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
  2. Open IDE, `Settings -> Editor -> Color Scheme`
  3. Click gear icon, then choose `Import Scheme`, and open the file `MaterialDarcula.icls` downloaded in previous
  4. Click `OK` and all done.
+
+### Optimized languages
+ - CSS
+ - HTML
+ - Java
+ - Javascript
+ - Kotlin
+ - Lua
+ - Python
+ - R
+ - Rust
+ - Scala
+ - SQL
+ - Typescript
+ - XML
+ - YAML
