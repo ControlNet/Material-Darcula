@@ -1,10 +1,10 @@
 <scheme name="Material Darcula 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-10-03T16:46:37</property>
+    <property name="created">2020-10-03T16:57:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-03T16:46:44</property>
+    <property name="modified">2020-10-03T16:57:06</property>
     <property name="originalScheme">Material Darcula 2</property>
   </metaInfo>
   <console-font>
@@ -142,9 +142,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -382,6 +379,7 @@
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Closure braces" baseAttributes="Braces" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="868686" />
@@ -539,14 +537,12 @@
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="EFFECT_COLOR" value="eeffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="EFFECT_COLOR" value="f78c6c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -752,6 +748,12 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="Groovy constructor declaration">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1306,6 +1308,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2298,6 +2301,11 @@
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
     </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
     <option name="NG.EXPANSION_FORM">
       <value />
     </option>
@@ -2891,8 +2899,9 @@
       </value>
     </option>
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -2918,6 +2927,19 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="TS.TYPE.ALIAS">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value />
+    </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2942,6 +2964,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -3007,23 +3030,6 @@
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_LIST">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_VALUE">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="org.elm.TYPE">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
@@ -3051,8 +3057,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
+    <option name="osmorc.directiveName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
