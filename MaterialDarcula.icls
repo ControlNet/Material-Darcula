@@ -298,25 +298,31 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="CSS.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
     <option name="CSS.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.COLOR">
+    <option name="CSS.COLON">
       <value>
         <option name="FOREGROUND" value="89ddff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
-    <option name="CSS.HASH">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -327,24 +333,14 @@
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.PROPERTY_NAME">
-      <value>
-        <option name="FOREGROUND" value="b2ccd6" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
+      <value />
     </option>
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -906,7 +902,11 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
@@ -917,11 +917,7 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HTTP_REQUEST_INPUT_FILE">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
