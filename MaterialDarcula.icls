@@ -1,10 +1,10 @@
 <scheme name="Material Darcula 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-10-02T11:07:02</property>
+    <property name="created">2020-10-03T16:46:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-02T11:07:26</property>
+    <property name="modified">2020-10-03T16:46:44</property>
     <property name="originalScheme">Material Darcula 2</property>
   </metaInfo>
   <console-font>
@@ -390,7 +390,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -456,11 +456,6 @@
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
-    <option name="DEFAULT_ENTITY">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -577,7 +572,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -2990,16 +2985,23 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
-    <option name="XML_TAG">
+    <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
