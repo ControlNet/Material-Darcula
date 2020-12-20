@@ -1141,6 +1141,7 @@
     </option>
     <option name="JULIA_KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JULIA_MACRO_REFERENCE" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="JULIA_QUOTE_NAME" baseAttributes="TEXT" />
     <option name="JULIA_TYPE_NAME" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="JULIA_TYPE_PARAMETER_NAME">
       <value>
