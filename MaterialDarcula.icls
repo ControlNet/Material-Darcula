@@ -1132,6 +1132,21 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JULIA_ABSTRACT_TYPE_NAME" baseAttributes="DEFAULT_INTERFACE_NAME" />
+    <option name="JULIA_BUILTIN_NAME" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="JULIA_FLOAT_LIT">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="JULIA_KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JULIA_MACRO_REFERENCE" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="JULIA_TYPE_NAME" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="JULIA_TYPE_PARAMETER_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
         <option name="FOREGROUND" value="c3e88d" />

@@ -17,6 +17,7 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
  - HTML
  - Java
  - Javascript
+ - Julia
  - Kotlin
  - Lua
  - Python
