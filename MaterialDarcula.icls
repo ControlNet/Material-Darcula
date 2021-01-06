@@ -1123,7 +1123,6 @@
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
@@ -2948,11 +2947,6 @@
       </value>
     </option>
     <option name="TS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
-      </value>
-    </option>
-    <option name="TS.TYPE.ALIAS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
