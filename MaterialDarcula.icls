@@ -1,10 +1,10 @@
 <scheme name="Material Darcula 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-07-02T18:38:03</property>
+    <property name="created">2021-07-02T19:41:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-07-02T18:38:15</property>
+    <property name="modified">2021-07-02T19:41:19</property>
     <property name="originalScheme">Material Darcula 2</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -1096,11 +1096,6 @@
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
-    <option name="JS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
@@ -2935,11 +2930,6 @@
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="TS.TYPE.ALIAS">
