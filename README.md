@@ -14,6 +14,7 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
 ### Optimized languages
  - Bash/Shell
  - CSS
+ - C#
  - HTML
  - Java
  - Javascript
