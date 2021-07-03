@@ -2741,11 +2741,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.ENUM_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
     <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="82aaff" />
