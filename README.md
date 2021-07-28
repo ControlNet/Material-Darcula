@@ -12,12 +12,14 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
  4. Click `OK` and all done.
 
 ### Optimized languages
+
+ - Angular
  - Bash/Shell
  - CSS
  - C#
  - HTML
  - Java
- - Javascript
+ - JavaScript
  - Julia
  - Kotlin
  - Lua
