@@ -15,6 +15,7 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
 
  - Angular
  - Bash/Shell
+ - C/C++
  - CSS
  - C#
  - HTML
