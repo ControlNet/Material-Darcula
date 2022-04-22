@@ -29,6 +29,7 @@ This Material-Darcula color scheme is modified from the editor scheme extracted 
  - Rust
  - Scala
  - SQL
+ - TOML
  - Typescript
  - XML
  - YAML
