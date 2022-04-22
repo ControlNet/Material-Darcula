@@ -1,10 +1,10 @@
 <scheme name="Material Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-11-20T18:38:34</property>
+    <property name="created">2022-04-22T11:32:16</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-20T18:38:42</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-04-22T11:32:24</property>
     <property name="originalScheme">Material Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -2930,7 +2930,7 @@
     </option>
     <option name="Scala Predefined types">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="Scala Type Alias">
