@@ -1,10 +1,10 @@
 <scheme name="Material Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-04-22T11:32:16</property>
+    <property name="created">2022-10-18T19:10:42</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-22T11:32:24</property>
+    <property name="ideVersion">2022.2.2.0.0</property>
+    <property name="modified">2022-10-18T19:10:52</property>
     <property name="originalScheme">Material Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -49,7 +49,6 @@
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
     <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
-    <option name="SELECTION_BACKGROUND" value="181818" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800c0" />
@@ -2956,7 +2955,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="1e1f22" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
