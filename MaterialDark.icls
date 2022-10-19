@@ -1,10 +1,10 @@
 <scheme name="Material Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-10-18T19:10:42</property>
+    <property name="created">2022-10-19T13:02:42</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-10-18T19:10:52</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2022-10-19T13:03:11</property>
     <property name="originalScheme">Material Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -36,7 +36,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="INDENT_GUIDE" value="424242" />
+    <option name="INDENT_GUIDE" value="313438" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
@@ -46,7 +46,7 @@
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="212121" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
-    <option name="RIGHT_MARGIN_COLOR" value="424242" />
+    <option name="RIGHT_MARGIN_COLOR" value="393b40" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
     <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
@@ -82,7 +82,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="VISUAL_INDENT_GUIDE" value="424242" />
+    <option name="VISUAL_INDENT_GUIDE" value="2b2d30" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="414141" />
   </colors>
