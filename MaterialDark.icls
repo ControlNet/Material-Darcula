@@ -3101,6 +3101,12 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="org.rust.FORMAT_SPECIFIER">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.KEYWORD_UNSAFE">
       <value>
