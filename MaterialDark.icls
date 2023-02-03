@@ -3118,7 +3118,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MUT_BINDING">
       <value>
         <option name="EFFECT_TYPE" value="1" />
