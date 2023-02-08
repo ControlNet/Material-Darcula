@@ -1,10 +1,10 @@
 <scheme name="Material Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-12-22T05:31:47</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-22T05:32:03</property>
+    <property name="created">2023-02-08T22:07:33</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.3.2.0.0</property>
+    <property name="modified">2023-02-08T22:07:44</property>
     <property name="originalScheme">Material Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -3052,6 +3052,11 @@
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_NS_PREFIX">
       <value>
